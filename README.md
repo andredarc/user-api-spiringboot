@@ -17,7 +17,4 @@ Open Intellij and use `import as maven project` to open project and wait the ins
 > If the deps don't start to install, click with the right button in the files:
 app/pom.xml and tests/e2e-tests/pom.xml and then `Add as Maven`.
 
-## Additional
 
-The project have their own database, so it's not necessary to start or configure a new one.
-To change the database insert, it's possible to update de file `app/src/main/resources/data.sql`.
